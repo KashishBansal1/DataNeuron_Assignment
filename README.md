@@ -2,9 +2,9 @@
 
 It contains solution to both the tasks.
 
-Repository link: 
+Repository link: https://github.com/KashishBansal1/DataNeuron_Assignment/tree/main
 
-Deployed link: 
+Deployed link: https://golden-paprenjak-65528a.netlify.app/
 
 Database link: https://mockapi.io/projects/65d7731727d9a3bc1d7b105b
 
